@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/crosbydoo/fcm-token-generator.git
    ```
 
 2. Navigate to the project directory and install depedencies
